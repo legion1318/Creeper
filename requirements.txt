@@ -1,0 +1,3 @@
+#install python3-nmap first
+sudo apt update
+sudo apt insatll python3-nmap

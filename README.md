@@ -1,22 +1,24 @@
-# Creeper
+# CreeperScanner
 
-Creeper Scanner is a network open ports scanner tool based on nmap which
+Creeper Scanner is a network open ports scanner tool which
 basically scans all the open ports of a targer IP or HOSTNAME
-It is written in Python
+It is written in Python using python3-nmap
 
-Supported on LINUX 
+#Installation
 
-Tested on LINUX
+To install the necessary dependencies
 
-Installion:-
+1. Clone the repository:
 
 git clone https://github.com/legion1318/Creeper.git
 
-sudo apt install python3-nmap
 
-cd Creeper/
+2. cd Creeper
 
+
+3. give the permission
 chmod +x creeper.py
 
-python3 creeper.py
 
+4. execute
+python3 creeper.py
