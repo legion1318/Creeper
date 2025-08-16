@@ -2,7 +2,7 @@
 
 Creeper Scanner is a network open ports scanner tool which
 basically scans all the open ports of a targer IP or HOSTNAME
-It is written in Python using python3-nmap
+It is written in Python
 
 #Installation
 
